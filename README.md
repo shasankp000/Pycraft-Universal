@@ -1,4 +1,4 @@
-# Pycraft-Universal
+# NLauncher
 A code-once-deploy-everywhere version of Pycraft with optimised algorithms.
 
 # Project-info
